@@ -4,7 +4,7 @@
   "main": "main.js",
   "dependencies": {
     "@actions/core": "^1.2.0",
-    "@actions/github": "2.0.0",
-    "@octokit/action": "^1.2.0"
+    "@actions/github": "3.0.0",
+    "@octokit/action": "^6.0.5"
   }
 }
